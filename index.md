@@ -12,3 +12,8 @@ var varJs = "Hello, world!";
 ``` python3
 varPy = "Hello, world!"
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
